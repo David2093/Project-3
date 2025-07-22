@@ -1,6 +1,7 @@
 .main-container {
     max-width:420 ;
     margin: 0 auto;
+    
 }
 
 .main-row {
@@ -8,7 +9,7 @@
     justify-content: space-between;
     gap: 65px;
     margin-bottom: 130px;
-    flex-wrap: wrap;
+    
 }
 
 .main-card {
