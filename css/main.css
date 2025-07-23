@@ -1,5 +1,5 @@
 .main-container {
-    max-width: 1200px;
+    max-width 906px;
     margin: 0 auto;
 }
 
@@ -10,6 +10,7 @@
     margin-bottom: 130px;
     flex-wrap: wrap;
     
+    
 }
 
 .main-card {
@@ -18,7 +19,7 @@
 }
 
 .main-card-lifestyle {
-    color: #B4AD9E;
+    color:var(--greyBeige);
     font-family: Ubuntu;
     font-size: 14px;
     font-style: normal;
@@ -27,7 +28,7 @@
 }
 
 .main-card-titel {
-    color: #626262;
+    color:var(--darkGrey);
     font-family: "Playfair Display";
     font-size: 30px;
     font-style: normal;
@@ -36,7 +37,7 @@
 }
 
 .main-card-text {
-    color: #626262;
+    color:var(--darkGrey);
     font-family: "Playfair Display";
     font-size: 14px;
     font-style: normal;
